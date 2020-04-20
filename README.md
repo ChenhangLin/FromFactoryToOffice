@@ -7,7 +7,8 @@ The demo video of the solution (in Chinese) could be viewd [here](https://micros
 
 There is also another version of [Demo video](https://microsoft-my.sharepoint.com/:v:/p/chenli/ESK-S_8e4UlNns-1T8vZyjMBEWgAVtrUWUXhaUPBezRImA?e=eKqCFc), which focuses more on usage scenarios.
 
-It mainly contains two parts: Part I of introducing IoT Edge working with Factory Data collecting modules and Machine Learning Module, and Part II of processing and reacting to device data from cloud side.
+
+This demo mainly contains two parts: Part I of introducing IoT Edge working with Factory Data collecting modules and Machine Learning Module, and Part II of processing and reacting to device data from cloud side.
 
 Combination of the two parts will outline a graph of how we get traditional factory data to user’s desktop, and interact with the data.
 ![](images/diagram.png)
@@ -235,7 +236,7 @@ Event Grid configuration is as following:
 
 Alert email content we receive:
 
-![](images/devicestatusAL.png)
+![](images/21.png)
 
 
 **(b)	For Product Count Alert:**
@@ -282,7 +283,7 @@ Alert email content we receive:
 ![](images/productcountAL.png)
 
 
-**(c)	For Device Status Alert:**
+**(c)	For Anomaly Detection Alert:**
 
 Logic App sample JSON payload please use DeviceTelemetry Schema as following:
 
