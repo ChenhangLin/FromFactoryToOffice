@@ -3,6 +3,10 @@
 
 This is a brief demo and sample tutorial to introduce Azure IoT/AI functionalities to whom is interested in integrating IoT/AI with factory data. 
 
+The demo video of the solution (in Chinese) could be viewd [here](https://microsoft-my.sharepoint.com/:v:/p/chenli/EYKPXGOeTHpFnLPiHN8vyC0BTITtL_NeLVn6VumAdiklkw?e=gumIGr).
+
+There is also another version of [Demo video](https://microsoft-my.sharepoint.com/:v:/p/chenli/ESK-S_8e4UlNns-1T8vZyjMBEWgAVtrUWUXhaUPBezRImA?e=eKqCFc), which focuses more on usage scenarios.
+
 It mainly contains two parts: Part I of introducing IoT Edge working with Factory Data collecting modules and Machine Learning Module, and Part II of processing and reacting to device data from cloud side.
 
 Combination of the two parts will outline a graph of how we get traditional factory data to user’s desktop, and interact with the data.
