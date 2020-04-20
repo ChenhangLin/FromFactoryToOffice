@@ -1,7 +1,8 @@
 
 # FromFactoryToOffice
 
-This is a brief demo and sample tutorial to introduce IoT Edge and IoT Hub functionalities to whom is interested in Azure IoT Services. 
+This is a brief demo and sample tutorial to introduce Azure IoT/AI functionalities to whom is interested in integrating IoT/AI with factory data. 
+
 It mainly contains two parts: Part I of introducing IoT Edge working with Factory Data collecting modules and Machine Learning Module, and Part II of processing and reacting to device data from cloud side.
 
 Combination of the two parts will outline a graph of how we get traditional factory data to user’s desktop, and interact with the data.
