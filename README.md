@@ -334,9 +334,15 @@ Alert email content we receive:
 
 
 
+
 ## References:
+
 https://docs.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-windows-with-linux 
+
 https://sandervandevelde.wordpress.com/2018/11/06/getting-started-with-opc-ua-on-azure-iot-edge/
+
 https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-machine-learning
+
 https://docs.microsoft.com/en-us/azure/event-grid/publish-iot-hub-events-to-logic-apps 
+
 https://github.com/microsoft/MCW-Internet-of-Things/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Internet%20of%20Things.md#exercise-3-hot-path-data-processing-with-stream-analytics
